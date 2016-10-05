@@ -7,7 +7,7 @@
 Important:
 - Do not change the layout or image sizes.
 - Let the work be surrounded by a background of color code #524B58
-- Use [Google fonts](https://www.google.com/fonts) for fonts. Ask for help from your pairs or do a quick google search for more on this.
+- Use [Google fonts](https://fonts.google.com/) for fonts. Ask for help from your pairs or do a quick google search for more on this.
 - Colour codes for the various colours used are:  #565A69
 
 ### EXTRA CREDITS
