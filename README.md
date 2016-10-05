@@ -1,5 +1,5 @@
-##Coderamp SelfAssessments
-  Self Assessments for coderamp
+##Moringa School Self assessments
+  Self Assessments for Moringa School
 
   Each self assessment directory contains all the needed files for completing the task.
 
