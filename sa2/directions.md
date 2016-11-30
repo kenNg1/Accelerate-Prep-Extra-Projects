@@ -17,7 +17,7 @@
        a. contacts
        b. events
        c. menu
-  They should all be a hyperlink to '#'
+  They should all be a hyperlink to '#' (does not redirect externally)
  - The **full screen menu (above)** should be colour:** #F15A29 ** and **the text of the menu items black in colour**
  - **Integrate Google Annalytics** to track page visits to the website. **Extra Credit**
  - Add an animation to the numbers on the profiles such that they start from zero and increase to the final number displayed.
