@@ -1,4 +1,4 @@
-# Exercise Four: Front End Assessment
+# Exercise Two: Front End Assessment
 
 - Complete this task.
 - You are expectd to use bootstrap framework for this task.

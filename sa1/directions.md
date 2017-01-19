@@ -1,18 +1,40 @@
-# Exercise Two: Front End Assessment
+# Exercise One: Front End Assessment
 
-- You have 2 Hours to complete this task.
-- Create a website using [core.jpeg](https://github.com/moringaschool/coderamp-selfassessments/blob/master/psd2html/e3/core.jpg) as a guide to how it will look like finaly.
+## Ping Pong
 
+Create a web application that takes a number from a user and returns a range of numbers from 1 to the chosen number with the following exceptions:
 
-Important:
-- Do not change the layout or image sizes.
-- Let the work be surrounded by a background of color code #524B58
-- Use [Google fonts](https://fonts.google.com/) for fonts.
-- Colour codes for the various colours used are:  #565A69
+- Numbers divisible by 3 are replaced with "ping"
+- Numbers divisible by 5 are replaced with "pong"
+- Numbers divisible by 15 are replaced with "pingpong"
 
-(This is done upon completion of the above Important instruction)
-- Add an animation to the numbers on the profiles such that they start from zero and increase to the final number displayed Once a user loads/refreshes the page.
-- Create a Hover effect for the various social sitescicular profile image such that on hover, it turns to a coloured picture but when not hovered it is black and white in color.
+A user should be able to enter a new number and see new results over and over again.
+
+Break the program down into simple, individual behaviors with input/output examples. Begin with the simplest possible behavior. List these behaviors (also known as "specs" or "specifications") in the project's **Readme.md file**
+
+### Layout Looks like the image linked below:
+[<img src="https://www.dropbox.com/s/hw7lgqaf3ng362u/ping-pong-layout-webshot.png?raw=1">](Layout)
+
+Your final application is not required to look like the example.
+
+### Example Specifications Section in README
+[<img src="//dl.dropboxusercontent.com/s/y3s9xmnmpl6yqfi/example-specs-in-readme.png"](Specifications)
+
+## Further Exploration
+If you finish meeting the objectives for this project, consider adding additional features, such as:
+
+- Recreate the example layout.
+- Add images and other custom aesthetics.
+- Implement different behaviors/effects/images for different inputs.
+
+## Summary of objectives
+Your code will be reviewed for the following objectives:
+
+- JavaScript business logic and user interface logic are separate.
+- Variable names are descriptive and use lower camel case (e.g. myVariableExample).
+- Code has proper indentation and spacing.
+- All previous objectives have been met.
+- Project is broken down into "plain English" specs, listed in README.
 
 
 #### All the best
