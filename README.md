@@ -1,5 +1,5 @@
-##Moringa School Self assessments
-  Moringa School Core interview tests
+##Accelerate Preps Extra Project
+  Accelerate Preps Extra Project
 
   Each directory contains all the needed files for completing the directory's project.
 
