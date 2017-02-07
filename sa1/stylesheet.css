@@ -1,10 +1,22 @@
-header {
+body {
   background:#F5DFB3;
+}
+
+header{
   text-align: center;
-  padding: 0.5em 0.5em;
+  background:#F5DFB3;
 }
 
 #about {
   background:#8FBC8E;
-  margin:0 0 0 -15px;
+  height:700px;
+}
+
+#content {
+  background:#E6E6E6;
+  height: 700px;
+}
+
+img {
+  float:right;
 }
